@@ -401,3 +401,5 @@ FodyWeavers.xsd
 /GoogleTranslator/obj/Debug/net6.0/GoogleTranslator.csproj.AssemblyReference.cache
 /GoogleTranslator/obj/Debug/net6.0/GoogleTranslator.csproj.CoreCompileInputs.cache
 /GoogleTranslator/obj/Debug/net6.0/GoogleTranslator.csproj.FileListAbsolute.txt
+/.vs/GoogleTranslator/DesignTimeBuild/.dtbcache.v2
+*.v2
