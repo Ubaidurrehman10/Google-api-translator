@@ -1,7 +1,0 @@
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.csproj.AssemblyReference.cache
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.GeneratedMSBuildEditorConfig.editorconfig
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.AssemblyInfoInputs.cache
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.AssemblyInfo.cs
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.csproj.CoreCompileInputs.cache
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.MvcApplicationPartsAssemblyInfo.cs
-G:\Development\Sample-Projects\GoogleTranslator\GoogleTranslator\obj\Debug\net6.0\GoogleTranslator.MvcApplicationPartsAssemblyInfo.cache

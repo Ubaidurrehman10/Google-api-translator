@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.vs/GoogleTranslator/v17/.suo
+/obj/Debug/net6.0
+/GoogleTranslator/obj/Debug/net6.0/GoogleTranslator.csproj.AssemblyReference.cache
+/GoogleTranslator/obj/Debug/net6.0/GoogleTranslator.csproj.CoreCompileInputs.cache
+/GoogleTranslator/obj/Debug/net6.0/GoogleTranslator.csproj.FileListAbsolute.txt

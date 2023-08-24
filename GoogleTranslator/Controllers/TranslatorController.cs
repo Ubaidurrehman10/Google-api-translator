@@ -6,7 +6,6 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using GoogleTranslator.Utility;
 using GoogleTranslator.Model;
-using GoogleTranslator.Services;
 
 namespace GoogleTranslator.Controllers
 {
